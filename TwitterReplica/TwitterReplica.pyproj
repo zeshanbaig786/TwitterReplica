@@ -68,6 +68,8 @@
     <Content Include="TwitterReplica\templates\contact.html" />
     <Content Include="TwitterReplica\templates\index.html" />
     <Content Include="TwitterReplica\templates\layout.html" />
+    <Content Include="TwitterReplica\templates\login.html" />
+    <Content Include="TwitterReplica\templates\register.html" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
